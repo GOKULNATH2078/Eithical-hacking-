@@ -1,0 +1,157 @@
+Certainly! Here's a list of ethical hacking tools along with their purposes and official websites:
+
+Reconnaissance & Information Gathering
+
+1. Nmap – Network scanning and mapping
+Official website: nmap.org
+
+
+2. Recon-ng – Web reconnaissance
+Official website: github.com/lanmaster53/recon-ng
+
+
+3. Shodan – Search engine for internet-connected devices
+Official website: shodan.io
+
+
+4. theHarvester – Collects emails, subdomains, and names
+Official website: github.com/laramies/theHarvester
+
+
+5. Maltego – Open-source intelligence (OSINT) visualization
+Official website: maltego.com
+
+
+
+Vulnerability Assessment & Exploitation
+
+6. Metasploit – Penetration testing framework
+Official website: metasploit.com
+
+
+7. OpenVAS – Vulnerability scanner
+Official website: openvas.org
+
+
+8. Nessus – Security vulnerability scanning
+Official website: tenable.com/products/nessus
+
+
+9. Burp Suite – Web security testing
+Official website: portswigger.net/burp
+
+
+10. Nikto – Web server scanner
+Official website: cirt.net/Nikto2
+
+
+
+Password Cracking & Brute-Forcing
+
+11. John the Ripper – Password cracking
+Official website: openwall.com/john/
+
+
+12. Hashcat – GPU-based password recovery
+Official website: hashcat.net
+
+
+13. Hydra – Online password brute-forcing
+Official website: github.com/vanhauser-thc/thc-hydra
+
+
+14. Medusa – Network login brute-forcer
+Official website: foofus.net/goons/jmk/medusa/medusa.html
+
+
+
+Wireless Network Testing
+
+15. Aircrack-ng – Wi-Fi security auditing
+Official website: aircrack-ng.org
+
+
+16. Kismet – Wireless network sniffer
+Official website: kismetwireless.net
+
+
+17. Reaver – WPA2 WPS brute-force attack
+Official website: github.com/t6x/reaver-wps-fork-t6x
+
+
+18. Fern Wi-Fi Cracker – Wireless penetration testing
+Official website: github.com/savio-code/fern-wifi-cracker
+
+
+
+Web Security & Exploitation
+
+19. SQLmap – Automated SQL injection testing
+Official website: sqlmap.org
+
+
+20. XSSer – Detects and exploits XSS vulnerabilities
+Official website: xsser.03c8.net
+
+
+21. Wapiti – Web application vulnerability scanner
+Official website: wapiti.sourceforge.io
+
+
+
+Packet Sniffing & Traffic Analysis
+
+22. Wireshark – Network protocol analyzer
+Official website: wireshark.org
+
+
+23. tcpdump – Packet capturing tool
+Official website: tcpdump.org
+
+
+24. Ettercap – Man-in-the-middle attack tool
+Official website: ettercap-project.org
+
+
+
+Forensics & Malware Analysis
+
+25. Autopsy – Digital forensics platform
+Official website: sleuthkit.org/autopsy/
+
+
+26. Volatility – Memory forensics analysis
+Official website: volatilityfoundation.org
+
+
+27. YARA – Malware classification and detection
+Official website: virustotal.github.io/yara/
+
+
+
+Social Engineering & Phishing
+
+28. Social-Engineer Toolkit (SET) – Simulates social engineering attacks
+Official website: github.com/trustedsec/social-engineer-toolkit
+
+
+29. Evilginx2 – Phishing tool for bypassing 2FA
+Official website: github.com/kgretzky/evilginx2
+
+
+
+Anonymity & Privacy
+
+30. Tor – Anonymous web browsing
+Official website: torproject.org
+
+
+31. ProxyChains – Hides IP addresses with proxy chaining
+Official website: github.com/haad/proxychains
+
+
+32. OpenVPN – Encrypts internet traffic
+Official website
+
+
+
